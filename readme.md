@@ -41,3 +41,8 @@ This project is a blockchain bridge  that connects Ethereum and Solana blockchai
 3. Start the development server:
     npm run dev
     - - The server will start at http://localhost:5173
+
+### Working
+
+1. As per given task, after running the backend, it will appear the real time Ethereum - solana transactions on stored in local         blockchain.
+2. The data stored in custom blockchain is fetched and appear on webpage where Etherem and transactions will be stored and displayed   simultaneously.
